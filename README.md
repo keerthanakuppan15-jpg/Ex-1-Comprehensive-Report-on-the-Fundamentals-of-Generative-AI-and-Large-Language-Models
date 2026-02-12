@@ -67,21 +67,6 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-![WhatsApp Image 2026-02-12 at 10 54 27 AM](https://github.com/user-attachments/assets/b40c1fc4-a4cf-40d9-8b7d-a4bc8e54d584)
-
-![WhatsApp Image 2026-02-12 at 10 54 28 AM (1)](https://github.com/user-attachments/assets/3bd5b249-a784-4539-935c-ebbc5c24e012)
-
-![WhatsApp Image 2026-02-12 at 10 54 28 AM (2)](https://github.com/user-attachments/assets/d54e35d0-5722-46cf-9b1e-86d023d2e04d)
-
-![WhatsApp Image 2026-02-12 at 10 54 28 AM](https://github.com/user-attachments/assets/bd47e984-d301-47d6-be79-97401d321dfb)
-
-![WhatsApp Image 2026-02-12 at 10 54 29 AM](https://github.com/user-attachments/assets/76d0aea1-672a-412d-8a2a-c09d188484e2)
-
-![WhatsApp Image 2026-02-12 at 10 54 29 AM (1)](https://github.com/user-attachments/assets/e920fda3-53b7-4b7e-b903-9a2bb113dc12)
-
-
-
-
 
 
 
