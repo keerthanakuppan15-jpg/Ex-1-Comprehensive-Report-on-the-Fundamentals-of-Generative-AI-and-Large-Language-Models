@@ -67,7 +67,27 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-
-
+![Generative_AI_Comprehensive_Report_page-0001](https://github.com/user-attachments/assets/cc43626c-dc90-4afd-8dcc-bfc6ff5ae812)
+![Generative_AI_Comprehensive_Report_page-0002](https://github.com/user-attachments/assets/3e85b42c-a177-4503-a4d9-0d923bc19b25)
+![Generative_AI_Comprehensive_Report_page-0003](https://github.com/user-attachments/assets/184409d4-ab0d-4b13-a4fb-1e72e1b1ed10)
+![Generative_AI_Comprehensive_Report_page-0004](https://github.com/user-attachments/assets/7e74c515-0001-49f6-a4fa-fdfc1704200e)
+![Generative_AI_Comprehensive_Report_page-0005](https://github.com/user-attachments/assets/038313b6-b37e-47f2-b99c-952794876442)
+![Generative_AI_Comprehensive_Report_page-0006](https://github.com/user-attachments/assets/9bb84007-eaed-4cd4-8f16-2ad6cf7e93b7)
+![Generative_AI_Comprehensive_Report_page-0007](https://github.com/user-attachments/assets/eb679e1c-7225-4b99-a069-e4634c160c4e)
+![Generative_AI_Comprehensive_Report_page-0008](https://github.com/user-attachments/assets/81ee5942-4018-45e1-ad50-943c7fc9a5b4)
+![Generative_AI_Comprehensive_Report_page-0009](https://github.com/user-attachments/assets/b3828043-c2e3-47b0-ae7d-5f1d46b96bab)
+![Generative_AI_Comprehensive_Report_page-0010](https://github.com/user-attachments/assets/8de4fcc1-f74f-47eb-9374-5829105bd683)
+![Generative_AI_Comprehensive_Report_page-0011](https://github.com/user-attachments/assets/f849e7c9-5fa0-4e91-bfd1-7bcae2a699e6)
+![Generative_AI_Comprehensive_Report_page-0012](https://github.com/user-attachments/assets/7c670723-2ab7-462b-8f21-34c1fb282d06)
+![Generative_AI_Comprehensive_Report_page-0013](https://github.com/user-attachments/assets/ed5d71e2-15bc-45b0-a9a3-3a6422724cc9)
+![Generative_AI_Comprehensive_Report_page-0014](https://github.com/user-attachments/assets/cc2f8b41-da24-4be4-b44b-610e6b287d80)
+![Generative_AI_Comprehensive_Report_page-0015](https://github.com/user-attachments/assets/9b2e8a17-db12-437a-b0b2-84378adf1415)
+![Generative_AI_Comprehensive_Report_page-0016](https://github.com/user-attachments/assets/d6745361-929d-46f4-83e4-ade1c1509b1f)
+![Generative_AI_Comprehensive_Report_page-0017](https://github.com/user-attachments/assets/cb44388c-6a22-4997-ae79-f01e78e309d0)
+![Generative_AI_Comprehensive_Report_page-0018](https://github.com/user-attachments/assets/1c636e59-f77f-414b-8f6c-99dd337017e4)
+![Generative_AI_Comprehensive_Report_page-0019](https://github.com/user-attachments/assets/2c8699a2-cded-401b-8d85-59abc5379c31)
+![Generative_AI_Comprehensive_Report_page-0020](https://github.com/user-attachments/assets/e2529dbd-70be-4318-8561-dabf457abf83)
+![Generative_AI_Comprehensive_Report_page-0021](https://github.com/user-attachments/assets/569b8e2e-04df-4195-bb41-5c2379ffc45b)
+![Generative_AI_Comprehensive_Report_page-0022](https://github.com/user-attachments/assets/9ffacb26-1e4d-4462-9aba-51d52d7dadd0)
 
 Result:Thus,the comprehensive report on fundamentals of generative AI and large language models is created
